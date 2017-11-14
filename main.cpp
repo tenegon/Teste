@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
-#include  "A.cpp""
+#include "A.cpp"
 #include "B.cpp"
 
 using namespace std;
