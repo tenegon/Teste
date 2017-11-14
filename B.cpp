@@ -1,3 +1,5 @@
+#ifndef B_H
+#define B_H
 #include "A.cpp"
 
 using namespace std;
@@ -10,3 +12,4 @@ class B : public A{
 		B() : A(), s("b"){};
 		void print(){ A::print(); cout << s << endl;}
 };
+#endif
